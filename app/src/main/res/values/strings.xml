@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Czasy przyjazdów</string>
+
+    <string-array name="size_entries">
+        <item>Kalksztajnów</item>
+        <item>Kalksztajnów</item>
+        <item>Piaskowa</item>
+        <item>Piaskowa</item>
+        <item>Chylonia Dworzec PKP</item>
+        <item>Chylonia Dworzec PKP</item>
+        <item>Chylonia Dworzec PKP</item>
+        <item>Chylonia Dworzec PKP</item>
+        <item>Chylonia Dworzec PKP</item>
+        <item>Gruszkowa</item>
+        <item>Gruszkowa</item>
+        <item>Reda Dworzec PKP</item>
+        <item>Reda Dworzec PKP</item>
+        <item>Pomorska</item>
+        <item>Pomorska</item>
+        <item>Kliniczna - Szpital</item>
+        <item>Kliniczna - Szpital</item>
+        <item>Kliniczna Szpital</item>
+        <item>Kliniczna Szpital</item>
+        <item>Wyspiańskiego (N/Ż)</item>
+        <item>Wyspiańskiego (N/Ż)</item>
+        <item>Opera Bałtycka</item>
+        <item>Opera Bałtycka</item>
+        <item>Opera Bałtycka</item>
+        <item>Opera Bałtycka</item>
+        <item>Opera Bałtycka</item>
+        <item>Bajana</item>
+        <item>Bajana</item>
+        <item>Urząd Miasta - Świętojańska</item>
+        <item>Źródło Marii</item>
+        <item>Źródło Marii</item>
+        <item>Redłowo SKM</item>
+        <item>Redłowo SKM</item>
+        <item>Redłowo SKM</item>
+        <item>Redłowo SKM</item>
+        <item>Nałkowskiej</item>
+        <item>Nałkowskiej</item>
+        <item>Bohaterów Monte Cassino</item>
+        <item>Bohaterów Monte Cassino</item>
+        <item>Pucka</item>
+        <item>Pucka</item>
+        <item>Wiejska</item>
+        <item>Wiejska</item>
+    </string-array>
+
+    <string-array name="size_values">
+        <item>37090</item>
+        <item>37420</item>
+        <item>37210</item>
+        <item>37190</item>
+        <item>38220</item>
+        <item>37230</item>
+        <item>38570</item>
+        <item>37170</item>
+        <item>37700</item>
+        <item>38420</item>
+        <item>38520</item>
+        <item>31310</item>
+        <item>31342</item>
+        <item>31254</item>
+        <item>31201</item>
+        <item>2070</item>
+        <item>2069</item>
+        <item>1690</item>
+        <item>1691</item>
+        <item>1609</item>
+        <item>1652</item>
+        <item>1598</item>
+        <item>1597</item>
+        <item>2014</item>
+        <item>2015</item>
+        <item>2013</item>
+        <item>2081</item>
+        <item>2082</item>
+        <item>35110</item>
+        <item>33180</item>
+        <item>33090</item>
+        <item>33400</item>
+        <item>35280</item>
+        <item>35030</item>
+        <item>33010</item>
+        <item>33370</item>
+        <item>40194</item>
+        <item>34200</item>
+        <item>34530</item>
+        <item>37160</item>
+        <item>37240</item>
+        <item>37390</item>
+        <item>37280</item>
+    </string-array>
+
+</resources>
